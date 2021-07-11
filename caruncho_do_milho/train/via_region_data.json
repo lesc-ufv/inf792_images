@@ -1685,41 +1685,6 @@
          
       }
    },
-   "11.jpg":{
-      "filename":"11.jpg",
-      "size":99560,
-      "regions":[
-         {
-            "shape_attributes":{
-               "name":"ellipse",
-               "cx":341,
-               "cy":553,
-               "rx":18,
-               "ry":20,
-               "theta":0
-            },
-            "region_attributes":{
-               
-            }
-         },
-         {
-            "shape_attributes":{
-               "name":"ellipse",
-               "cx":398,
-               "cy":351,
-               "rx":11,
-               "ry":22,
-               "theta":0
-            },
-            "region_attributes":{
-               
-            }
-         }
-      ],
-      "file_attributes":{
-         
-      }
-   },
    "12.jpg":{
       "filename":"12.jpg",
       "size":194146,
